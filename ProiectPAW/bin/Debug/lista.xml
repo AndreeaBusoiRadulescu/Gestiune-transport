@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transport>
+    <Id>1</Id>
+    <Masina>
+      <Id>2</Id>
+      <Denumire>aDS</Denumire>
+      <NumarMasina>ASD</NumarMasina>
+    </Masina>
+    <Sofer>
+      <Id>1</Id>
+      <NumeSofer>Ilie</NumeSofer>
+      <DataAngajare>2020-05-29T00:00:00</DataAngajare>
+    </Sofer>
+    <DenumireIncarcatura>asdasd</DenumireIncarcatura>
+    <Oras>NESELECTAT</Oras>
+  </Transport>
+</ArrayOfTransport>

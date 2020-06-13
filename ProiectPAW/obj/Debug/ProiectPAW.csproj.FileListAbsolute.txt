@@ -1,0 +1,358 @@
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormularMasina.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormularSofer.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormularTransport.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormularLista.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormularGestiune.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\netstandard.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.AppContext.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Collections.Concurrent.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Collections.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Collections.NonGeneric.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Collections.Specialized.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ComponentModel.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ComponentModel.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Console.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Data.Common.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.Contracts.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.Debug.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.Process.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.Tools.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.Tracing.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Drawing.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Dynamic.Runtime.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Globalization.Calendars.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Globalization.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Globalization.Extensions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.Compression.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.FileSystem.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.IsolatedStorage.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.Pipes.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Linq.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Linq.Expressions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Linq.Parallel.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Linq.Queryable.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.Http.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.NameResolution.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.NetworkInformation.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.Ping.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.Requests.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.Security.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.Sockets.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.WebSockets.Client.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Net.WebSockets.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ObjectModel.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Reflection.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Reflection.Extensions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Reflection.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Resources.Reader.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Resources.ResourceManager.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Resources.Writer.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Extensions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Handles.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.InteropServices.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Numerics.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Claims.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.Principal.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Security.SecureString.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Text.Encoding.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Text.RegularExpressions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Overlapped.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Tasks.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Thread.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.ThreadPool.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Timer.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ValueTuple.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Xml.ReaderWriter.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Xml.XDocument.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Xml.XmlDocument.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Xml.XmlSerializer.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Xml.XPath.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Options.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Newtonsoft.Json.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\SQLitePCLRaw.core.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Buffers.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Collections.Immutable.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.ComponentModel.Annotations.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Memory.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Numerics.Vectors.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Options.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\Newtonsoft.Json.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Buffers.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Collections.Immutable.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Memory.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Numerics.Vectors.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe.config
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CopyComplete
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.FormularEditare.resources
+D:\an II sem II\PAW\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\ProiectPAW.exe
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\ProiectPAW.pdb
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\netstandard.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.AppContext.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Collections.Concurrent.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Collections.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Collections.NonGeneric.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Collections.Specialized.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ComponentModel.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ComponentModel.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Console.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Data.Common.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.Contracts.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.Debug.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.Process.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.Tools.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.Tracing.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Drawing.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Dynamic.Runtime.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Globalization.Calendars.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Globalization.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Globalization.Extensions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.Compression.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.FileSystem.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.IsolatedStorage.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.Pipes.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Linq.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Linq.Expressions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Linq.Parallel.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Linq.Queryable.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.Http.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.NameResolution.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.NetworkInformation.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.Ping.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.Requests.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.Security.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.Sockets.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.WebSockets.Client.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Net.WebSockets.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ObjectModel.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Reflection.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Reflection.Extensions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Reflection.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Resources.Reader.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Resources.ResourceManager.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Resources.Writer.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Extensions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Handles.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.InteropServices.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Numerics.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Claims.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.Principal.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Security.SecureString.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Text.Encoding.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Text.RegularExpressions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Overlapped.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Tasks.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Thread.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.ThreadPool.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Timer.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ValueTuple.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Xml.ReaderWriter.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Xml.XDocument.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Xml.XmlDocument.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Xml.XmlSerializer.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Xml.XPath.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Newtonsoft.Json.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\SQLitePCLRaw.core.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Buffers.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Collections.Immutable.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Memory.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Numerics.Vectors.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\Newtonsoft.Json.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Buffers.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Collections.Immutable.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Memory.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Numerics.Vectors.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.exe.config
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.FormularEditare.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.FormularLista.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.FormularGestiune.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.FormularMasina.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.FormularSofer.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.FormularTransport.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.csproj.CopyComplete
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.exe
+D:\ProiecteGit\ProiectPAW\Gestiune transport\ProiectPAW\obj\Debug\ProiectPAW.pdb
